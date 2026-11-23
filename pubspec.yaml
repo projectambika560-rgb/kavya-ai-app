@@ -1,0 +1,19 @@
+name: kavya_ai_app
+description: Kavya - Hinglish AI agent app with Home, Chat, Voice, Skills and Memory screens.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
